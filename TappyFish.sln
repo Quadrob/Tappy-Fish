@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.UI", "UnityEngine.UI.csproj", "{C8ACF800-5783-29C6-C8DD-7DE664C5ABEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds", "GoogleMobileAds.csproj", "{27884C73-98E3-5DD2-096D-AF7B8AA246C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{BDFC640C-447A-F3B9-BB9A-8D10045169E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Sprite.Editor", "Unity.2D.Sprite.Editor.csproj", "{BDC978C0-4B6A-6847-7368-D366A0ECE4B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEditor.UI", "UnityEditor.UI.csproj", "{3300FF39-C26F-C3B5-0AF4-35F1ED4784C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Tilemap.Editor", "Unity.2D.Tilemap.Editor.csproj", "{6693B40B-B1F6-26FD-C06E-C5542492AE36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds.Editor", "GoogleMobileAds.Editor.csproj", "{857B0EE7-D39E-D3C2-9E70-449EFCB0289F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8ACF800-5783-29C6-C8DD-7DE664C5ABEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8ACF800-5783-29C6-C8DD-7DE664C5ABEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8ACF800-5783-29C6-C8DD-7DE664C5ABEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8ACF800-5783-29C6-C8DD-7DE664C5ABEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27884C73-98E3-5DD2-096D-AF7B8AA246C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27884C73-98E3-5DD2-096D-AF7B8AA246C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27884C73-98E3-5DD2-096D-AF7B8AA246C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27884C73-98E3-5DD2-096D-AF7B8AA246C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFC640C-447A-F3B9-BB9A-8D10045169E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFC640C-447A-F3B9-BB9A-8D10045169E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFC640C-447A-F3B9-BB9A-8D10045169E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFC640C-447A-F3B9-BB9A-8D10045169E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC978C0-4B6A-6847-7368-D366A0ECE4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC978C0-4B6A-6847-7368-D366A0ECE4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC978C0-4B6A-6847-7368-D366A0ECE4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC978C0-4B6A-6847-7368-D366A0ECE4B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3300FF39-C26F-C3B5-0AF4-35F1ED4784C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3300FF39-C26F-C3B5-0AF4-35F1ED4784C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3300FF39-C26F-C3B5-0AF4-35F1ED4784C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3300FF39-C26F-C3B5-0AF4-35F1ED4784C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6693B40B-B1F6-26FD-C06E-C5542492AE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6693B40B-B1F6-26FD-C06E-C5542492AE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6693B40B-B1F6-26FD-C06E-C5542492AE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6693B40B-B1F6-26FD-C06E-C5542492AE36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857B0EE7-D39E-D3C2-9E70-449EFCB0289F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857B0EE7-D39E-D3C2-9E70-449EFCB0289F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857B0EE7-D39E-D3C2-9E70-449EFCB0289F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857B0EE7-D39E-D3C2-9E70-449EFCB0289F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
